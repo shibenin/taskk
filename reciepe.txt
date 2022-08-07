@@ -3,3 +3,5 @@ welcome
 rice
 pasta
 chicken
+hi
+bye
